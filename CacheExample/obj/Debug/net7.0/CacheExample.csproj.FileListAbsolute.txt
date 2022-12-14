@@ -1,0 +1,15 @@
+/Users/deniskrzysztala/RiderProjects/BasicCache/CacheExample/bin/Debug/net7.0/CacheExample
+/Users/deniskrzysztala/RiderProjects/BasicCache/CacheExample/bin/Debug/net7.0/CacheExample.deps.json
+/Users/deniskrzysztala/RiderProjects/BasicCache/CacheExample/bin/Debug/net7.0/CacheExample.runtimeconfig.json
+/Users/deniskrzysztala/RiderProjects/BasicCache/CacheExample/bin/Debug/net7.0/CacheExample.dll
+/Users/deniskrzysztala/RiderProjects/BasicCache/CacheExample/bin/Debug/net7.0/CacheExample.pdb
+/Users/deniskrzysztala/RiderProjects/BasicCache/CacheExample/obj/Debug/net7.0/CacheExample.csproj.AssemblyReference.cache
+/Users/deniskrzysztala/RiderProjects/BasicCache/CacheExample/obj/Debug/net7.0/CacheExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskrzysztala/RiderProjects/BasicCache/CacheExample/obj/Debug/net7.0/CacheExample.AssemblyInfoInputs.cache
+/Users/deniskrzysztala/RiderProjects/BasicCache/CacheExample/obj/Debug/net7.0/CacheExample.AssemblyInfo.cs
+/Users/deniskrzysztala/RiderProjects/BasicCache/CacheExample/obj/Debug/net7.0/CacheExample.csproj.CoreCompileInputs.cache
+/Users/deniskrzysztala/RiderProjects/BasicCache/CacheExample/obj/Debug/net7.0/CacheExample.dll
+/Users/deniskrzysztala/RiderProjects/BasicCache/CacheExample/obj/Debug/net7.0/refint/CacheExample.dll
+/Users/deniskrzysztala/RiderProjects/BasicCache/CacheExample/obj/Debug/net7.0/CacheExample.pdb
+/Users/deniskrzysztala/RiderProjects/BasicCache/CacheExample/obj/Debug/net7.0/CacheExample.genruntimeconfig.cache
+/Users/deniskrzysztala/RiderProjects/BasicCache/CacheExample/obj/Debug/net7.0/ref/CacheExample.dll
